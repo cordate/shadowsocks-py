@@ -11,6 +11,11 @@ click = '>=5.1'
 docopt = '>=0.6.2'
 argparse = '>=1.4.0'
 
+# web
+flask-socketIO = ">=4.2.1"
+flask = ">=1.1.2"
+websocket = ">=0.2.1"
+
 
 [requires]
 python_version = "3.7"
