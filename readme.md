@@ -42,10 +42,21 @@ https://github.com/heroku/python-sample
 ## web服务
 web服务使用flask，基于flask-socketio做websocket服务。
 
-参考：[python中socket、socketio、flask-socketio、WebSocket的区别与联系](https://www.cnblogs.com/lgjbky/p/9391073.html)
+## shadowsockets模块
+这个类库是python实现的ss5库，包括前端和后端。https://github.com/shadowsocks/shadowsocks/blob/master/shadowsocks/cryptor.py
+
+## python标准库以及getopt
+Python 标准库：https://docs.python.org/zh-cn/3/library/index.html
+
+#### 参考：
+[python中socket、socketio、flask-socketio、WebSocket的区别与联系](https://www.cnblogs.com/lgjbky/p/9391073.html)
+
 [使用Flask-SocketIO完成服务端和客户端的双向通信](https://blog.csdn.net/weixin_36380516/article/details/80418354)
+
 [flask-socketio笔记](https://www.cnblogs.com/minsons/p/8251780.html)
+
 [python websocket 客户端连接](https://www.cnblogs.com/520zm/p/10689494.html)
+
 [Python websocket-client 如何保持长连接呢？](https://www.v2ex.com/amp/t/380920)
 
 
